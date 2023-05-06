@@ -30,4 +30,4 @@ I love programming and making things, I am a Full stack Web Developer.
 [PHP Composer - https://packagist.org/packages/venkatesh-kcet/](https://packagist.org/packages/venkatesh-kcet/)
 
 ✨ Socials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 
-[LinkedIn - https://www.linkedin.com/in/aayush-p-616b6b16a/](https://www.linkedin.com/in/venkatesh-s-poojahegde/)
+[LinkedIn - https://www.linkedin.com/in/venkatesh-s-poojahegde/](https://www.linkedin.com/in/venkatesh-s-poojahegde/)
