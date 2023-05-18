@@ -5,7 +5,7 @@
   
 # 👋 Hello! I'm Venkatesh
 I love programming and making things, I am a Full stack Web Developer.
-
+I have deep understanding of the current industry Trends and I continuously looks to stay ahead of the curve
 </div>
 
 ### I work with
