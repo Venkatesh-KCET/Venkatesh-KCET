@@ -7,7 +7,12 @@
 I love programming and making things, I am a Full stack Web Developer.
 <br>
 I have deep understanding of the current industry Trends and I continuously looks to stay ahead of the curve
+<br>
+<br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Venkatesh-KCET&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 </div>
+
 
 ### I work with
 
