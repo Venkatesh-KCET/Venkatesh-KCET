@@ -4,7 +4,7 @@
 ![GitHub Snake Dark](https://github.com/Venkatesh-KCET/Venkatesh-KCET/raw/snack/github-snake-dark.svg#gh-dark-mode-only)
   
 # 👋 Hello! I'm Venkatesh
-I love programming and making things, I am a Full stack Web Developer.
+I love programming and making things, and I am a Full stack Web Developer.
 <br>
 I have deep understanding of the current industry Trends and I continuously looks to stay ahead of the curve
 <br>
