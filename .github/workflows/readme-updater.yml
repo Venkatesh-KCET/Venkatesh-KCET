@@ -19,6 +19,6 @@ jobs:
       - uses: casperdcl/push-dir@v1
         with:
           message: Snack
-          branch: main
+          branch: snack
           dir: snack
           history: false
