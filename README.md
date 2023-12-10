@@ -25,13 +25,6 @@ I have deep understanding of the current industry Trends and I continuously look
 
 > 👨🏻‍💻 Web Full-Stack Developer
 
-### My stats
-<p align="center"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-KCET&theme=onedark&show_icons=true&hide_rank=false&custom_title=Stats&count_private=true&hide_border=true&hide=issues,contribs&line_height=24&bg_color=0d1117" alt="Github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-KCET&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" style="height:150px;" alt="Top Langs">
-</a></p>
-
-
 ### Tech Stack
 
 - 🛠 Lang & Framework: LAMP, MEAN, Python-Django, Javascript
