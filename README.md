@@ -19,7 +19,7 @@ I have deep understanding of the current industry Trends and I continuously look
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
 </h5>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh-KCET&theme=transparent&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh-KCET&theme=transparent&hide_border=true&type=png">
 
 </div>
 
