@@ -32,8 +32,6 @@ I have deep understanding of the current industry Trends and I continuously look
 
 ### Where to find me
 <p align="center">
-  <a href="https://github.com/Venkatesh-KCET" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/venkatesh-s-poojahegde" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://packagist.org/packages/venkatesh-kcet/" target="_blank"><img alt="PHP Composer" src="https://img.shields.io/badge/packagist-%23f28d1a.svg?&style=for-the-badge&logo=packagist&logoColor=white" /></a>
   <a href="https://github.com/Venkatesh-KCET/Venkatesh-KCET/" target="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Venkatesh-KCET&style=for-the-badge" /></a>
 </p>
@@ -56,15 +54,6 @@ I have deep understanding of the current industry Trends and I continuously look
   <a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MYSQL-00000F?logo=mysql&logoColor=white&style=for-the-badge"/></a>
   <a target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a target="_blank"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-</p>
-
-
-### ⚒ Tools I use:
-<p align="center">
-<a target="_blank"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white"/></a> 
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 </p>
 
 <br><br><br>
